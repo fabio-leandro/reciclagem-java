@@ -8,5 +8,7 @@ public class Composta {
 
         if(nota >= 7) System.out.println("Aprovado");
         else System.out.println("Reprovado");
+
+
     }
 }
