@@ -1,4 +1,4 @@
-package com.fabio.desafios;
+package com.fabio.desafios.quebec;
 
 import java.io.IOException;
 import java.util.Scanner;

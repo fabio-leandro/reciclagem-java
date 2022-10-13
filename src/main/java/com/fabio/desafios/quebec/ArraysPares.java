@@ -1,4 +1,4 @@
-package com.fabio.desafios;
+package com.fabio.desafios.quebec;
 
 
 public class ArraysPares {
